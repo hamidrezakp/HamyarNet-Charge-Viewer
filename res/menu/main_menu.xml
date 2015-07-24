@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/reload_menu"
+    android:title="@string/reload"
+    android:icon="@drawable/relaod"/>
+    <item android:id="@+id/setting_menu"
+    android:title="@string/setting"
+    android:icon="@drawable/setting"/>
+    <item android:id="@+id/about_us"
+    android:title="@string/about"/>
+
+</menu>

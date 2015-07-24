@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="action_settings">تنظیمات</string>
+    <string name="app_name">نمایش دهنده شارژ همیارنت</string>
+    <string name="cell">"تماس : 09307723227 "</string>
+    <string name="developer_name">حمیدرضا کاوه پیشقدم</string>
+    <string name="email">Hamidsoft12@gmail.com</string>
+    <string name="expirein">اتمام:</string>
+    <string name="savedcharge">شارژ ذخیره</string>
+    <string name="savedgig">گیگ ذخیره:</string>
+    <string name="charge">شارژ:</string>
+    <string name="createdin">ایجاد:</string>
+    <string name="freenight">شب رایگان:</string>
+    <string name="gig">گیگ:</string>
+    <string name="reload">به روز</string>
+    <string name="setting">تنظیمات</string>
+    <string name="username">نام کاربری:</string>
+    <string name="back">بازگشت</string>
+    <string name="password">رمز عبور:</string>
+    <string name="save">ذخیره</string>
+    <string name="wait">منتظر بمانید</string>
+    <string name="setting_fill_error">لطفا نام کاربری و پسورد رو وارد کنید</string>
+    <string name="connection_error">مشکل در ارتباط به سرور.</string>
+    <string name="about">درباره ما</string>
+    <string name="about_icon_name">ایکن برنامه</string>
+    <string name="version">1.1</string>
+    <string name="version_about">ورژن برنامه :</string>
+    <string name="programmer">برنامه نویس :</string>
+    <string name="email_name">ایمیل :</string>
+
+
+</resources>

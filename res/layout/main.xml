@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:weightSum="1" android:background="#ffffffff"
+                android:id="@+id/real">
+
+<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout3">
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/gig"
+                android:id="@+id/t1"
+                android:textColor="#000" android:background="@drawable/button_background" android:textSize="23dp"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/wait"
+                android:id="@+id/gig" android:textColor="#000" android:background="@drawable/field_background"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/charge"
+                android:id="@+id/t2" android:layout_marginTop="10dp" android:textColor="#000"
+                android:background="@drawable/button_background" android:textSize="23dp"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/wait"
+                android:id="@+id/charge" android:textColor="#000" android:background="@drawable/field_background"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/savedcharge"
+                android:id="@+id/t3"  android:textColor="#000" android:background="@drawable/button_background"
+                android:textSize="23dp" android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/wait"
+                android:id="@+id/savedcharge" android:textColor="#000" android:background="@drawable/field_background"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/savedgig"
+                android:id="@+id/t4" android:layout_marginTop="10dp" android:textColor="#000"
+                android:background="@drawable/button_background" android:textSize="23dp"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/wait"
+                android:id="@+id/savedgig" android:textColor="#000" android:background="@drawable/field_background"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/freenight"
+                android:id="@+id/t5"
+                android:textColor="#000" android:background="@drawable/button_background" android:textSize="23dp"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/wait"
+                android:id="@+id/freenight" android:textColor="#000" android:background="@drawable/field_background"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/createdin"
+                android:id="@+id/t6" android:layout_marginTop="10dp" android:textColor="#000"
+                android:background="@drawable/button_background" android:textSize="23dp"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/wait"
+                android:id="@+id/createdin" android:textColor="#000" android:background="@drawable/field_background"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/expirein"
+                android:id="@+id/t7"  android:textColor="#000" android:background="@drawable/button_background"
+                android:textSize="23dp" android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/wait"
+                android:id="@+id/expirein" android:textColor="#000" android:background="@drawable/field_background"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/username"
+                android:id="@+id/t8"
+                android:layout_marginTop="10dp"
+                android:textColor="#000" android:background="@drawable/button_background" android:textSize="23dp"
+                android:paddingLeft="10dp"/>
+        <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/wait"
+                android:id="@+id/usernamelbl" android:textColor="#000" android:background="@drawable/field_background"
+                android:paddingLeft="10dp"/>
+    </LinearLayout>
+</ScrollView>
+</RelativeLayout>
+

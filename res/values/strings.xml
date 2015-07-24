@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HamyarNet Charge Viewer</string>
+    <string name="developer_name">Hamid Reza Kaveh Pishghadam</string>
+    <string name="email">Hamidsoft12@gmail.com</string>
+    <string name="cell">Cell : 09307723227</string>
+    <string name="action_settings">Setting</string>
+    <string name="reload">Reload</string>
+    <string name="setting">Edit Setting</string>
+    <string name="gig">GIG :</string>
+    <string name="charge">Charge :</string>
+    <string name="createdin">Created In :</string>
+    <string name="expirein">Expire In :</string>
+    <string name="savedcharge">Saved Charge :</string>
+    <string name="savedgig">Saved GIG :</string>
+    <string name="freenight">Free Night :</string>
+    <string name="username">UserName :</string>
+    <string name="password">Password :</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="wait">Wait</string>
+    <string name="setting_fill_error">Please Fill Username and Password Field.</string>
+    <string name="connection_error">Problem in connect to server.</string>
+    <string name="about">About Us</string>
+    <string name="about_icon_name">App icon</string>
+    <string name="version_about">App Version : </string>
+    <string name="version">1.1</string>
+    <string name="programmer">Programmer :</string>
+    <string name="email_name">E-Mail :</string>
+</resources>
